@@ -4,8 +4,6 @@
   <img src="assets/forbidden_media_logo.png" alt="Forbidden Media logo" width="400">
 </div>
 
-## Instructions
-
 # Forbidden Media
 
 A secure, containerized solution for deploying isolated Plex Media Server instances behind VPN tunnels.
@@ -29,7 +27,7 @@ Forbidden Media is a comprehensive toolset for deploying and managing isolated P
 - Docker and Docker Compose
 - Cloudflare account with API access for DNS management
 - WireGuard VPN subscription
-- Traefik reverse proxy setup
+- Traefik reverse proxy setup (optional)
 - Existing Plex configuration to clone (optional)
 - Hardware that supports virtualization and container technologies
 
